@@ -5,4 +5,4 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files 111 222.
 Test push to remote.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
