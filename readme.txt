@@ -7,3 +7,4 @@ Git tracks changes of files 111 222.
 Test push to remote.
 Creating a new branch is quick and simple.
 git can merge.
+Test bug dev.
